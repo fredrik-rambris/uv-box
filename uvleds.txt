@@ -1,0 +1,10 @@
+Emitted Colour : UV Violet
+Size: 5mm
+Lens Color : Water Clear
+Forward Voltage (V) : 2.8 ~ 4.0
+Forward Current (mA):30
+wavelength (nm):380 ~ 400
+View Angle: About 25 degree
+Luminous Intensity: 3000mcd
+Life Rating : 100,000 Hours
+Free Resistor: 470 Ohm 1/4 Watt Carbon Film Resistors X 100pcs
