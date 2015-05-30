@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Nytt dokument 1">
+   sodipodi:docname="Boxcuts.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-61.788383"
-     inkscape:cy="989.30096"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="143.28368"
+     inkscape:cy="859.32913"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,30 +53,22 @@
      id="layer1">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2985"
-       width="133.64566"
-       height="225.77167"
-       x="230.21169"
-       y="-306.6362"
-       transform="matrix(0,1,-1,0,0,0)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-9"
        width="133.64566"
        height="264.74802"
-       x="80.564926"
-       y="-337.14377"
+       x="141.37611"
+       y="-378.15598"
        transform="matrix(0,1,-1,0,0,0)" />
     <g
        id="g3058"
-       transform="translate(393.5916,-33.697238)">
+       transform="matrix(0.98673909,0,0,0.98366978,443.9972,28.263816)">
       <rect
          y="187.6716"
          x="-259.60919"
          height="60.236221"
          width="74.409447"
          id="rect3005"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:1.01501906;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3025"
@@ -87,18 +79,18 @@
            y="221.43668"
            x="-238.257"
            id="tspan3027"
-           sodipodi:role="line">Topp</tspan></text>
+           sodipodi:role="line">Top</tspan></text>
     </g>
     <g
        id="g3053"
-       transform="translate(382.88845,-35.904008)">
+       transform="matrix(0.98673909,0,0,0.98366978,283.43555,26.093081)">
       <rect
          y="189.87837"
          x="-172.31262"
          height="60.236221"
          width="74.409447"
          id="rect3005-3"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:1.01501906;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3025-9"
@@ -109,18 +101,18 @@
            y="225.0004"
            x="-158.51756"
            id="tspan3027-6"
-           sodipodi:role="line">Botten</tspan></text>
+           sodipodi:role="line">Bottom</tspan></text>
     </g>
     <g
        id="g3069"
-       transform="translate(536.05575,-1.9458079)">
+       transform="matrix(1,0,0,1.0802139,577.06795,52.246867)">
       <rect
          y="82.510735"
          x="-463.66"
          height="65.259842"
          width="82.976379"
          id="rect3063"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:0.96215516;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3065"
@@ -131,18 +123,18 @@
            y="120.14456"
            x="-439.78802"
            id="tspan3067"
-           sodipodi:role="line">Fram</tspan></text>
+           sodipodi:role="line">Front</tspan></text>
     </g>
     <g
        id="g3104"
-       transform="translate(611.16848,-108.10155)">
+       transform="matrix(1,0,0,1.0802139,651.28343,-62.424037)">
       <rect
          y="188.66647"
          x="-453.89911"
          height="65.259842"
          width="82.976379"
          id="rect3063-2"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:0.96215516;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3065-0"
@@ -153,18 +145,18 @@
            y="226.51562"
            x="-426.22293"
            id="tspan3067-2"
-           sodipodi:role="line">Bak</tspan></text>
+           sodipodi:role="line">Back</tspan></text>
     </g>
     <g
        id="g3115"
-       transform="translate(593.80093,-40.131078)">
+       transform="matrix(0,1,-1.0802139,0,536.99677,734.1094)">
       <rect
          y="189.08182"
          x="-521.23871"
          height="65.259842"
          width="59.236221"
          id="rect3109"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:none;stroke:#000000;stroke-width:0.96215516;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
          sodipodi:linespacing="125%"
          id="text3111"
@@ -175,29 +167,68 @@
            y="226.93097"
            x="-506.56396"
            id="tspan3113"
-           sodipodi:role="line">Sida</tspan></text>
+           sodipodi:role="line">Side</tspan></text>
     </g>
     <g
-       transform="translate(763.38172,-108.51689)"
+       transform="matrix(0,-1,1.0802139,0,71.482712,-314.9972)"
        id="g3115-8">
-      <rect
-         y="189.08182"
-         x="-521.23871"
-         height="65.259842"
-         width="59.236221"
-         id="rect3109-2"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3111-9"
-         y="226.93097"
-         x="-506.56396"
-         style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="226.93097"
+      <g
+         id="g3008"
+         transform="matrix(0,0.92574258,-1.0802139,0,-252.1245,676.82586)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.96215516;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3109-2"
+           width="59.236221"
+           height="65.259842"
+           x="-521.23871"
+           y="189.08182" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="-506.56396"
-           id="tspan3113-4"
-           sodipodi:role="line">Sida</tspan></text>
+           y="226.93097"
+           id="text3111-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3113-4"
+             x="-506.56396"
+             y="226.93097">Side</tspan></text>
+      </g>
     </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3024"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3026"><rect
+           id="rect3028"
+           width="222.03152"
+           height="124.45079"
+           x="400.22244"
+           y="136.65891" /></flowRegion><flowPara
+         id="flowPara3030"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3043"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-234.75945,161.92745)"><flowRegion
+         id="flowRegion3045"><rect
+           id="rect3047"
+           width="241.12335"
+           height="53.032993"
+           x="362.74579"
+           y="125.34519" /></flowRegion><flowPara
+         id="flowPara3055">Top + Bottom: 210 mm x 170 mm</flowPara><flowPara
+         id="flowPara3051">Front + Back: 237 mm x 202 mm</flowPara><flowPara
+         id="flowPara3053">Sides: 170 mm x 202 mm</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="69.296463"
+       y="92.111176"
+       id="text3059"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3061"
+         x="69.296463"
+         y="92.111176"
+         style="font-size:28px;font-weight:bold;-inkscape-font-specification:Sans Bold">Box cuts</tspan></text>
   </g>
 </svg>
